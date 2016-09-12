@@ -1,0 +1,15 @@
+{
+  "name": "vimd",
+  "version": "0.0.1",
+  "description": "Embed Neovim into Code!",
+  "main": "app.js",
+  "dependencies": {
+    "msgpack5rpc": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rebornix",
+  "license": "MIT"
+}
